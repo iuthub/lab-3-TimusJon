@@ -35,6 +35,23 @@ p img {
     float: right;
 }
 
+#friends {
+    background-color: #84cfcf;
+    border: 3px #108c92 solid;
+    margin-top: 7px;
+    width: 165px;
+    padding: 7px;
+    float: left;
+}
+
+#adjust {
+    margin-left: 195px;
+}
+
+*:hover {
+    background-color: yellow;
+}
+
 .clearer {
     clear: right;
 }
