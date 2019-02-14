@@ -1,0 +1,40 @@
+body {
+    background-image: url("images/3.jpg");
+    background-size: cover;
+    margin: auto 10%;
+}
+
+.container {
+    background-color: white;
+    border: 10px white solid;
+}
+
+#same {
+    border: 4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+#same h2 span {
+    border-bottom: 2px blue dashed;
+}
+
+#journal {
+    text-align: right;
+    background-color: #A8F0F0;
+    /* border: 5px red solid; */
+}
+
+#journal h2 {
+    font-size: 14pt;
+    /* border: 5px orange solid; */
+}
+
+p img {
+    float: right;
+}
+
+.clearer {
+    clear: right;
+}
